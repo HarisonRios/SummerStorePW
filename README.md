@@ -1,7 +1,7 @@
 
 # Projeto CRUD em PHP - SummerStore -Harison Rios 💻
 
-<img src=".github/preview1.png" alt="Exemplo imagem">
+<img src=".github/preview.png" alt="Exemplo imagem">
 
 > Projeto CRUD em PHP SummerStore - LandingPage
 
